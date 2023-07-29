@@ -1,11 +1,18 @@
 # Manas Jha's Github Projects
 A collection of all my projects on Github.
 
-## Project Count : 10
+## Project Count : 13
 
 
 ### C
 - <a href = "https://github.com/ManasJhaMJ/C-basics">C Basics</a> (C)
+
+### D
+- <a href ="https://github.com/ManasJhaMJ/drum-kit">Drum-Kit</a>
+- <a href ="https://github.com/ManasJhaMJ/simple-dice-game">Dice-Game</a>
+
+### E
+- <a href ="https://github.com/ManasJhaMJ/newdevs-music">E-nstruments</a>
 
 ### G
 - <a href = "https://github.com/ManasJhaMJ/graphic-designer-portfolio">Graphic Designer Portfolio v1</a>
