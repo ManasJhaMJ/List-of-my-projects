@@ -48,6 +48,7 @@ Latest Addition : Pixel Code
 
 ### S
 - <a href = "https://github.com/ManasJhaMJ/School-Record-System">School Record System</a> (python)
+- <a href = "https://github.com/ManasJhaMJ/synthwave">Synthwave</a>
 
 ### T
 - <a href = "https://github.com/ManasJhaMJ/The-Tasty-Burger">The Tasty Burgers</a>
